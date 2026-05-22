@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-**Aagam Jain** — Developer | CEI Intern 2026 at Celebal Technologies
+**Aagam Jain** — Data Science Intern | CEI Intern 2026 at Celebal Technologies
 
 ---
 
@@ -26,16 +26,16 @@ This repository contains all my weekly assignment submissions for the **Celebal 
 
 ## 📋 Weekly Assignment Tracker
 
-| 🗓️ Week | 📁 Folder | 📊 Status |
+| 🗓️ Week | Assignment Link | 📊 Status |
 |:-------:|:---------:|:---------:|
-| Week 1 | [📂 Week-01](./Week-01/) | ✅ Completed |
-| Week 2 | [📂 Week-02](./Week-02/) | ⏳ Pending |
-| Week 3 | [📂 Week-03](./Week-03/) | ⏳ Pending |
-| Week 4 | [📂 Week-04](./Week-04/) | ⏳ Pending |
-| Week 5 | [📂 Week-05](./Week-05/) | ⏳ Pending |
-| Week 6 | [📂 Week-06](./Week-06/) | ⏳ Pending |
-| Week 7 | [📂 Week-07](./Week-07/) | ⏳ Pending |
-| Week 8 | [📂 Week-08](./Week-08/) | ⏳ Pending |
+| Week 1 | [Week-01-Assignment](./Week-01/) | ✅ Completed |
+| Week 2 | [Week-02-Assignment](./Week-02/) | ⏳ Pending |
+| Week 3 | [Week-03-Assignment](./Week-03/) | ⏳ Pending |
+| Week 4 | [Week-04-Assignment](./Week-04/) | ⏳ Pending |
+| Week 5 | [Week-05-Assignment](./Week-05/) | ⏳ Pending |
+| Week 6 | [Week-06-Assignment](./Week-06/) | ⏳ Pending |
+| Week 7 | [Week-07-Assignment](./Week-07/) | ⏳ Pending |
+| Week 8 | [Week-08-Assignment](./Week-08/) | ⏳ Pending |
 
 ---
 
