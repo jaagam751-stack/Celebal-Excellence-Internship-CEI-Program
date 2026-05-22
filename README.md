@@ -26,9 +26,9 @@ This repository contains all my weekly assignment submissions for the **Celebal 
 
 ## 📋 Weekly Assignment Tracker
 
-| 🗓️ Week | Assignment Link | 📊 Status |
-|:-------:|:---------:|:---------:|
-| Week 1 | [Week-01-Assignment](./Week-01/) | ✅ Completed |
+| Week 📅 | Assignment 📝 | Status 🚀 |
+|------|-----------------|--------|
+| Week 1 | [Week-01-Assignment](./week1_Aagam_Jain.ipynb) | ✅ Completed |
 | Week 2 | [Week-02-Assignment](./Week-02/) | ⏳ Pending |
 | Week 3 | [Week-03-Assignment](./Week-03/) | ⏳ Pending |
 | Week 4 | [Week-04-Assignment](./Week-04/) | ⏳ Pending |
