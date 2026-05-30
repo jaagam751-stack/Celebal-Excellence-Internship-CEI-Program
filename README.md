@@ -4,7 +4,7 @@
 
 [![Celebal Technologies](https://img.shields.io/badge/Celebal%20Technologies-CEI%202026-1a3a8f?style=for-the-badge&logoColor=white)](https://celebaltech.com)
 [![Status](https://img.shields.io/badge/Status-Active-00b894?style=for-the-badge)](https://github.com/jaagam751-stack)
-[![Progress](https://img.shields.io/badge/Progress-1%20of%208%20Weeks-e74c3c?style=for-the-badge)](https://github.com/jaagam751-stack)
+[![Progress](https://img.shields.io/badge/Progress-2%20of%208%20Weeks-e74c3c?style=for-the-badge)](https://github.com/jaagam751-stack)
 
 > *"Consistency is the key to continuous improvement."*
 
@@ -27,9 +27,9 @@ This repository contains all my weekly assignment submissions for the **Celebal 
 ## 📋 Weekly Assignment Tracker
 
 | Week 📅 | Assignment 📝 | Status 🚀 |
-|------|-----------------|--------|
+|---------|--------------|-----------|
 | Week 1 | [Week-01-Assignment](./week1_Aagam_Jain.ipynb) | ✅ Completed |
-| Week 2 | [Week-02-Assignment](./Week-02/) | ⏳ Pending |
+| Week 2 | [Week-02-Assignment](./Week-02/) | ✅ Completed |
 | Week 3 | [Week-03-Assignment](./Week-03/) | ⏳ Pending |
 | Week 4 | [Week-04-Assignment](./Week-04/) | ⏳ Pending |
 | Week 5 | [Week-05-Assignment](./Week-05/) | ⏳ Pending |
@@ -42,7 +42,7 @@ This repository contains all my weekly assignment submissions for the **Celebal 
 ## 📊 Progress
 
 ```
-Overall: [██░░░░░░░░░░░░░░]  1 / 8 Weeks (12.5%)
+Overall: [████░░░░░░░░░░░░]  2 / 8 Weeks (25%)
 ```
 
 ---
@@ -81,4 +81,3 @@ Special thanks to **[Celebal Technologies](https://celebaltech.com)** for this i
 *© 2026 · Aagam Jain · CEI Program · Celebal Technologies*
 
 </div>
-
