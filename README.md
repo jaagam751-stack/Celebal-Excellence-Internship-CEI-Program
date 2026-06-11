@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/Celebal%20Technologies-CEI%202026-1a3a8f?style=for-the-badge&logoColor=white" alt="Celebal Technologies"/>
 <img src="https://img.shields.io/badge/Role-Data%20Science%20Intern-0984e3?style=for-the-badge" alt="Role"/>
 <img src="https://img.shields.io/badge/Status-Active-00b894?style=for-the-badge" alt="Status"/>
-<img src="https://img.shields.io/badge/Progress-3%20of%208%20Weeks-e74c3c?style=for-the-badge" alt="Progress"/>
+<img src="https://img.shields.io/badge/Progress-4%20of%208%20Weeks-e74c3c?style=for-the-badge" alt="Progress"/>
 
 # 🎓 Celebal Excellence Internship — CEI 2026
 
