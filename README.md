@@ -32,7 +32,6 @@
 This repository contains all my weekly assignment submissions for the **Celebal Excellence Internship (CEI) Program 2026**, organized and tracked week by week. Each notebook documents the concepts explored, code written, and insights gained throughout the program.
 
 ---
-
 ## 📋 Weekly Assignment Tracker
 
 | Week | Assignment | Status |
@@ -40,13 +39,13 @@ This repository contains all my weekly assignment submissions for the **Celebal 
 | Week 1 | [Week-01 Assignment](./week1_Aagam_Jain.ipynb) | ✅ Completed |
 | Week 2 | [Week-02 Assignment](./week2_Aagam_Jain.ipynb) | ✅ Completed |
 | Week 3 | [Week-03 Assignment](./week3_Aagam_Jain.ipynb) | ✅ Completed |
-| Week 4 | [Week-04 Assignment](./Week-04/) | ⏳ Pending |
+| Week 4 | [Week-04 Assignment](./week4_Aagam_Jain.ipynb) | ✅ Completed |
 | Week 5 | [Week-05 Assignment](./Week-05/) | ⏳ Pending |
 | Week 6 | [Week-06 Assignment](./Week-06/) | ⏳ Pending |
 | Week 7 | [Week-07 Assignment](./Week-07/) | ⏳ Pending |
 | Week 8 | [Week-08 Assignment](./Week-08/) | ⏳ Pending |
 
----
+
 
 ## 📊 Overall Progress
 
@@ -54,13 +53,13 @@ This repository contains all my weekly assignment submissions for the **Celebal 
 Week 1  ████████████████████  ✅ Done
 Week 2  ████████████████████  ✅ Done
 Week 3  ████████████████████  ✅ Done
-Week 4  ░░░░░░░░░░░░░░░░░░░░  ⏳ Pending
+Week 4  ████████████████████  ✅ Done
 Week 5  ░░░░░░░░░░░░░░░░░░░░  ⏳ Pending
 Week 6  ░░░░░░░░░░░░░░░░░░░░  ⏳ Pending
 Week 7  ░░░░░░░░░░░░░░░░░░░░  ⏳ Pending
 Week 8  ░░░░░░░░░░░░░░░░░░░░  ⏳ Pending
 
-Overall Progress: ██████░░░░░░░░░░░░░░  3 / 8 Weeks  (37.5%)
+Overall Progress: ██████████░░░░░░░░░░  4 / 8 Weeks  (50%)
 ```
 
 ---
@@ -81,7 +80,7 @@ CEI-2026/
 ├── week1_Aagam_Jain.ipynb     # Week 1 — ✅ Completed
 ├── week2_Aagam_Jain.ipynb     # Week 2 — ✅ Completed
 ├── week3_Aagam_Jain.ipynb     # Week 3 — ✅ Completed
-├── Week-04/                   # Week 4 — ⏳ Pending
+├── Week-04/                   # Week 4 — ✅ Completed
 ├── Week-05/                   # Week 5 — ⏳ Pending
 ├── Week-06/                   # Week 6 — ⏳ Pending
 ├── Week-07/                   # Week 7 — ⏳ Pending
