@@ -80,7 +80,7 @@ CEI-2026/
 ├── week1_Aagam_Jain.ipynb     # Week 1 — ✅ Completed
 ├── week2_Aagam_Jain.ipynb     # Week 2 — ✅ Completed
 ├── week3_Aagam_Jain.ipynb     # Week 3 — ✅ Completed
-├── Week-04/                   # Week 4 — ✅ Completed
+├── week4_Aagam_Jain.ipynb     # Week 4 — ✅ Completed
 ├── Week-05/                   # Week 5 — ⏳ Pending
 ├── Week-06/                   # Week 6 — ⏳ Pending
 ├── Week-07/                   # Week 7 — ⏳ Pending
