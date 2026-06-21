@@ -1,105 +1,116 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/Celebal%20Technologies-CEI%202026-1a3a8f?style=for-the-badge&logoColor=white" alt="Celebal Technologies"/>
-<img src="https://img.shields.io/badge/Role-Data%20Science%20Intern-0984e3?style=for-the-badge" alt="Role"/>
-<img src="https://img.shields.io/badge/Status-Active-00b894?style=for-the-badge" alt="Status"/>
-<img src="https://img.shields.io/badge/Progress-4%20of%208%20Weeks-e74c3c?style=for-the-badge" alt="Progress"/>
+# 🎓 Celebal Excellence Internship (CEI) Program 2026
 
-# 🎓 Celebal Excellence Internship — CEI 2026
+[![Program](https://img.shields.io/badge/CEI_Program-2026-1a3a8f?style=for-the-badge&logoColor=white)](https://github.com/jaagam751-stack)
+[![Role](https://img.shields.io/badge/Role-Data_Science_Intern-0984e3?style=for-the-badge&logoColor=white)](https://github.com/jaagam751-stack)
+[![Duration](https://img.shields.io/badge/Duration-8_Weeks-7F77DD?style=for-the-badge&logoColor=white)](https://github.com/jaagam751-stack)
+[![Progress](https://img.shields.io/badge/Progress-5%2F8_Complete-e74c3c?style=for-the-badge&logoColor=white)](https://github.com/jaagam751-stack)
+[![Status](https://img.shields.io/badge/Status-Active-00b894?style=for-the-badge&logoColor=white)](https://github.com/jaagam751-stack)
 
 > *"Consistency is the key to continuous improvement."*
 
-**Aagam Jain** · Data Science Intern · Celebal Technologies
+Welcome to my official submission repository for the **Celebal Excellence Internship (CEI) Program 2026**, hosted by [Celebal Technologies](https://celebaltech.com). This repository serves as a structured archive of all weekly assignments completed throughout the 8-week program.
 
 <a href="https://www.linkedin.com/in/aagamj01/" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" width="36" height="36"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/jaagam751-stack" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="36" height="36"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:agamjain0574@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" width="36" height="36"/>
 </a>
 
 </div>
 
 ---
 
-## 📖 Overview
+## 📌 About This Repository
 
-This repository contains all my weekly assignment submissions for the **Celebal Excellence Internship (CEI) Program 2026**, organized and tracked week by week. Each notebook documents the concepts explored, code written, and insights gained throughout the program.
-
----
-## 📋 Weekly Assignment Tracker
-
-| Week | Assignment | Status |
-|:----:|:-----------|:------:|
-| Week 1 | [Week-01 Assignment](./week1_Aagam_Jain.ipynb) | ✅ Completed |
-| Week 2 | [Week-02 Assignment](./week2_Aagam_Jain.ipynb) | ✅ Completed |
-| Week 3 | [Week-03 Assignment](./week3_Aagam_Jain.ipynb) | ✅ Completed |
-| Week 4 | [Week-04 Assignment](./week4_Aagam_Jain.ipynb) | ✅ Completed |
-| Week 5 | [Week-05 Assignment](./Week-05/) | ⏳ Pending |
-| Week 6 | [Week-06 Assignment](./Week-06/) | ⏳ Pending |
-| Week 7 | [Week-07 Assignment](./Week-07/) | ⏳ Pending |
-| Week 8 | [Week-08 Assignment](./Week-08/) | ⏳ Pending |
-
-
-
-## 📊 Overall Progress
-
-```
-Week 1  ████████████████████  ✅ Done
-Week 2  ████████████████████  ✅ Done
-Week 3  ████████████████████  ✅ Done
-Week 4  ████████████████████  ✅ Done
-Week 5  ░░░░░░░░░░░░░░░░░░░░  ⏳ Pending
-Week 6  ░░░░░░░░░░░░░░░░░░░░  ⏳ Pending
-Week 7  ░░░░░░░░░░░░░░░░░░░░  ⏳ Pending
-Week 8  ░░░░░░░░░░░░░░░░░░░░  ⏳ Pending
-
-Overall Progress: ██████████░░░░░░░░░░  4 / 8 Weeks  (50%)
-```
+As part of the CEI Program 2026, participants complete **weekly hands-on assignments** designed to build practical knowledge and industry-relevant technical skills in Data Science. Every submission is versioned and organized here for transparency, easy tracking, and future reference.
 
 ---
 
-## 🎯 Goals
+## 📊 Progress Overview
 
-- ✅ Submit all 8 weekly assignments on time
-- 📈 Track and document learning progress consistently
-- 💡 Showcase practical Data Science skills through hands-on projects
-- 🏆 Build a strong, well-documented internship portfolio
+```
+Overall Progress  ████████████░░░░░░░░  5 / 8 Weeks Completed (62.5%)
+```
+
+| Week | Notebook / Folder | Status |
+|------|---------------------|--------|
+| **Week 01** | [📓 Notebook](./week1_Aagam_Jain.ipynb)  | ✅ Completed |
+| **Week 02** | [📓 Notebook](./week2_Aagam_Jain.ipynb)  | ✅ Completed |
+| **Week 03** | [📓 Notebook](./week3_Aagam_Jain.ipynb)  | ✅ Completed |
+| **Week 04** | [📓 Notebook](./week4_Aagam_Jain.ipynb)  | ✅ Completed |
+| **Week 05** | [📓 Notebook](./week5_Aagam_Jain.ipynb)  | ✅ Completed |
+| **Week 06** | [📁 Folder](./Week-06/) | ⏳ Pending |
+| **Week 07** | [📁 Folder](./Week-07/) | ⏳ Pending |
+| **Week 08** | [📁 Folder](./Week-08/) | ⏳ Pending |
+
+📝 Assignment notebooks, datasets, and resource links will be updated weekly as new tasks are released during the CEI Program 2026.
 
 ---
 
 ## 🗂️ Repository Structure
 
 ```
-CEI-2026/
-├── week1_Aagam_Jain.ipynb     # Week 1 — ✅ Completed
-├── week2_Aagam_Jain.ipynb     # Week 2 — ✅ Completed
-├── week3_Aagam_Jain.ipynb     # Week 3 — ✅ Completed
-├── week4_Aagam_Jain.ipynb     # Week 4 — ✅ Completed
-├── Week-05/                   # Week 5 — ⏳ Pending
-├── Week-06/                   # Week 6 — ⏳ Pending
-├── Week-07/                   # Week 7 — ⏳ Pending
-├── Week-08/                   # Week 8 — ⏳ Pending
-└── README.md
+📦 CEI-2026
+ ┣ 📓 week1_Aagam_Jain.ipynb    ✅ Submitted
+ ┣ 📓 week2_Aagam_Jain.ipynb    ✅ Submitted
+ ┣ 📓 week3_Aagam_Jain.ipynb    ✅ Submitted
+ ┣ 📓 week4_Aagam_Jain.ipynb    ✅ Submitted
+ ┣ 📓 week5_Aagam_Jain.ipynb    ✅ Submitted
+ ┣ 📁 Week-06/                   ⏳ Upcoming
+ ┣ 📁 Week-07/                   ⏳ Upcoming
+ ┣ 📁 Week-08/                   ⏳ Upcoming
+ ┗ 📄 README.md
 ```
 
 ---
 
-## 🌟 Acknowledgements
+## 🎯 Purpose
 
-Special thanks to **[Celebal Technologies](https://celebaltech.com)** for this incredible learning opportunity through the CEI Program 2026. The structured curriculum and mentorship have been invaluable in developing practical skills.
+| Goal | Description |
+|------|-------------|
+| 📁 **Organize** | All weekly internship submissions in one place |
+| 📈 **Track** | Learning milestones and progress across 8 weeks |
+| 🛠️ **Showcase** | Practical implementation of Data Science concepts learned |
+| 🔍 **Demonstrate** | Consistent effort and engagement throughout |
 
 ---
+## 👤 Intern Profile
 
 <div align="center">
 
-⭐ *If you find this helpful, consider giving it a star!* ⭐
+| 🏷️ Field | 📋 Details |
+|:---:|:---|
+| 🙋 **Name** | Aagam Jain |
+| 💼 **Role** | Data Science Intern |
+| 🎓 **Program** | Celebal Excellence Internship (CEI) 2026 |
+| 🏢 **Organization** | [Celebal Technologies](https://celebaltech.com) |
+| ⏳ **Duration** | 8 Weeks |
+| 🐙 **GitHub** | [@jaagam751-stack](https://github.com/jaagam751-stack) |
+| 🔗 **LinkedIn** | [aagamj01](https://www.linkedin.com/in/aagamj01/) |
+| 📧 **Email** | [agamjain0574@gmail.com](mailto:agamjain0574@gmail.com) |
 
-*© 2026 · Aagam Jain · CEI Program · Celebal Technologies*
+</div>
+
+---
+
+## ⭐ Acknowledgement
+
+<div align="center">
+
+Special thanks to **[Celebal Technologies](https://celebaltech.com)** for designing and providing this exceptional learning experience through the **CEI Program 2026**. This internship bridges the gap between academic knowledge and real-world application.
+
+⭐ *If you find this repository helpful, consider giving it a star!* ⭐
+
+---
+
+*Made with ❤️ by Aagam Jain · CEI Program 2026*
 
 </div>
