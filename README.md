@@ -5,7 +5,7 @@
 [![Program](https://img.shields.io/badge/CEI_Program-2026-1a3a8f?style=for-the-badge&logoColor=white)](https://github.com/jaagam751-stack)
 [![Role](https://img.shields.io/badge/Role-Data_Science_Intern-0984e3?style=for-the-badge&logoColor=white)](https://github.com/jaagam751-stack)
 [![Duration](https://img.shields.io/badge/Duration-8_Weeks-7F77DD?style=for-the-badge&logoColor=white)](https://github.com/jaagam751-stack)
-[![Progress](https://img.shields.io/badge/Progress-5%2F8_Complete-e74c3c?style=for-the-badge&logoColor=white)](https://github.com/jaagam751-stack)
+[![Progress](https://img.shields.io/badge/Progress-6%2F8_Complete-e74c3c?style=for-the-badge&logoColor=white)](https://github.com/jaagam751-stack)
 [![Status](https://img.shields.io/badge/Status-Active-00b894?style=for-the-badge&logoColor=white)](https://github.com/jaagam751-stack)
 
 > *"Consistency is the key to continuous improvement."*
@@ -37,7 +37,7 @@ As part of the CEI Program 2026, participants complete **weekly hands-on assignm
 ## 📊 Progress Overview
 
 ```
-Overall Progress  ████████████░░░░░░░░  5 / 8 Weeks Completed (62.5%)
+Overall Progress  ███████████████░░░░░  6 / 8 Weeks Completed (75%)
 ```
 
 | Week | Notebook / Folder | Status |
@@ -47,7 +47,7 @@ Overall Progress  ████████████░░░░░░░░  
 | **Week 03** | [📓 Notebook](./week3_Aagam_Jain.ipynb)  | ✅ Completed |
 | **Week 04** | [📓 Notebook](./week4_Aagam_Jain.ipynb)  | ✅ Completed |
 | **Week 05** | [📓 Notebook](./week5_Aagam_Jain.ipynb)  | ✅ Completed |
-| **Week 06** | [📁 Folder](./Week-06/) | ⏳ Pending |
+| **Week 06** | [📓 Notebook](./week6_Aagam_Jain.ipynb)  | ✅ Completed |
 | **Week 07** | [📁 Folder](./Week-07/) | ⏳ Pending |
 | **Week 08** | [📁 Folder](./Week-08/) | ⏳ Pending |
 
@@ -64,7 +64,7 @@ Overall Progress  ████████████░░░░░░░░  
  ┣ 📓 week3_Aagam_Jain.ipynb    ✅ Submitted
  ┣ 📓 week4_Aagam_Jain.ipynb    ✅ Submitted
  ┣ 📓 week5_Aagam_Jain.ipynb    ✅ Submitted
- ┣ 📁 Week-06/                   ⏳ Upcoming
+ ┣ 📓 week6_Aagam_Jain.ipynb    ✅ Submitted
  ┣ 📁 Week-07/                   ⏳ Upcoming
  ┣ 📁 Week-08/                   ⏳ Upcoming
  ┗ 📄 README.md
